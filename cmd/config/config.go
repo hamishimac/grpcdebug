@@ -7,7 +7,7 @@ import (
 	"path"
 	"runtime"
 
-	"github.com/grpc-ecosystem/grpcdebug/cmd/verbose"
+	"github.com/hamishimac/grpcdebug/cmd/verbose"
 	"gopkg.in/yaml.v2"
 )
 

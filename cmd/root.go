@@ -8,9 +8,9 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"github.com/grpc-ecosystem/grpcdebug/cmd/config"
-	"github.com/grpc-ecosystem/grpcdebug/cmd/transport"
-	"github.com/grpc-ecosystem/grpcdebug/cmd/verbose"
+	"github.com/hamishimac/grpcdebug/cmd/config"
+	"github.com/hamishimac/grpcdebug/cmd/transport"
+	"github.com/hamishimac/grpcdebug/cmd/verbose"
 
 	"github.com/spf13/cobra"
 )
